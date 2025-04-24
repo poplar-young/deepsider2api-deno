@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "deepsider"
+          project: "popyoung-deepsider2a-74"
           entrypoint: "main.ts"
           root: ""
           
